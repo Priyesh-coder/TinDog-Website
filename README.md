@@ -3,8 +3,7 @@ Using HTML, CSS and Bootstrap
 
 
 I got a challenge when I learn Full Stack Web-Development Course on Udemy to create a TinDog-Website using Bootstrap... I completed that challenge and thought to put this on my github repository. TinDog version of this website only display the static part of website i.e. I only used Bootstrap to give the look to website. Nothing more than that.
-Whereas the original concept is given below for your reference... I hope you like my Bootstrap TinDog Website. Thanks a lot to all of you for going through this and make sure to give your valuable feedback...😊
-
+Whereas the original concept is given below for your reference...😊
 
 About TinDog---
 
@@ -19,3 +18,6 @@ Tindog is also a great way to help socialize your pet. Dogs are pack animals so 
 Created by the team at Holidog – a 500 Startups company – Tindog aims to help make it easier for people to break the ice once they match. "Most dating apps focus solely on appearances, which often leads nowhere," said Dave McClure, CEO of 500 Startups. "Matching with someone that already shares your love for dogs only increases the chance for a real connection – plus everyone knows that dogs make the best wingmen."
 
 Tindog is available on Android and beginning today, can be downloaded on iOS. To learn more about the Tindog app, please visit www.tindog.co.
+
+I hope you like my Bootstrap TinDog Website. Thanks a lot to all of you for going through this and make sure to give your valuable feedback...😊
+
