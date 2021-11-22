@@ -19,5 +19,5 @@ Created by the team at Holidog – a 500 Startups company – Tindog aims to hel
 
 Tindog is available on Android and beginning today, can be downloaded on iOS. To learn more about the Tindog app, please visit www.tindog.co.
 
-I hope you like my Bootstrap TinDog Website. Thanks a lot to all of you for going through this and make sure to give your valuable feedback.😊
+I hope you like my Bootstrap TinDog Website. Thanks a lot to all of you for going through this. Please make sure to give your valuable feedback for scope of my improvement.😊
 
